@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Network+Simulation;Enterprise%20Routing+%26+Security;99.9%25%20Uptime+%F0%9F%94%8D" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Network+Simulation;%20Routing+%26+Security;99.9%25%20Uptime+%F0%9F%94%8D" />
   <br><br>
   <img src="https://img.shields.io/badge/🌐-Cisco%20Packet%20Tracer-1E40AF?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/⭐-99.9%25%20Uptime-3B82F6?style=for-the-badge&logo=network-wired&logoColor=white" />
